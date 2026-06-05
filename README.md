@@ -13,6 +13,6 @@ A modern and responsive coffee shop website built using HTML, CSS, and JavaScrip
 * 🎨 Modern and User-Friendly Interface
 
 🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
+* HTML5
+* CSS3
+* JavaScript
